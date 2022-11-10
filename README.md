@@ -8,7 +8,7 @@ Build out this QR code component and get it looking as close to the design as po
 
 ### Screenshot
 
-![Screenshot for the Interactive rating component coding challenge](./images/qr-code-component.jpg
+![Screenshot for the Interactive rating component coding challenge](./images/qr-code-component.jpg)
 
 ### Links
 
